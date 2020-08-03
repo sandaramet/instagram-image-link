@@ -1,0 +1,12 @@
+div.MEAGs {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+}
+
+div.MEAGs .copy-image-url {
+    width: 24px;
+    margin: auto;
+    cursor: pointer;
+}
